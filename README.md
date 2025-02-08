@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Utpal</h1>  
-<h3 align="center">🌟 A passionate developer merging the worlds of Web Development and Data Science 🌟</h3>  
+
 
 <p align="center">  
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500"/>  
