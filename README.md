@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/utpal-barua" target="_blank">  
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
   </a>  
-  <a href="https://kaggle.com/utpal" target="_blank">  
+  <a href="https://www.kaggle.com/utpalbarua" target="_blank">  
     <img align="center" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>  
   </a>  
 </p>  
