@@ -1,4 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Hi%2C+I'm+Utpal+Barua;Machine+Learning+Enthusiast;AI+Engineer+in+progress;Always+learning+new+things)](https://git.io/typing-svg)
+<!-- ===== Professional Typing Intro (Smaller Size) ===== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Typing SVG" width="500">
+</p>
+
+
+<!-- ===== Professional Badges ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💼-ML+Engineer-blue?style=for-the-badge&logo=python&logoColor=white" alt="ML Engineer Badge">
+  <img src="https://img.shields.io/badge/🧠-AI+Research-green?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Researcher Badge">
+  <img src="https://img.shields.io/badge/⚙️-MLOps-purple?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps Badge">
+</p>
+
 
 ---
 
