@@ -123,7 +123,7 @@
 
 ---
 
-## 📈 GitHub Stats (SVGs that work)
+## 📈 GitHub Stats
 
 <!-- 2 cards on the same row; equal heights for clean alignment -->
 <table align="center">
