@@ -11,7 +11,7 @@
 <!-- ===== Professional Badges ===== -->
 <p align="center">
   <img src="https://img.shields.io/badge/💼-ML+Engineer-blue?style=for-the-badge&logo=python&logoColor=white" alt="ML Engineer Badge">
-  <img src="https://img.shields.io/badge/🧠-AI+Research-green?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Researcher Badge">
+  <img src="https://img.shields.io/badge/🧠-AI+Researcher-green?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Researcher Badge">
   <img src="https://img.shields.io/badge/⚙️-MLOps-purple?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps Badge">
 </p>
 
