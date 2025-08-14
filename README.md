@@ -1,8 +1,12 @@
-<!-- ===== Professional Typing Intro (Smaller Size) ===== -->
+<!-- Main Title with Wave Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=600&lines=Hi+There+%F0%9F%91%8B+I+am+Utpal+Barua" alt="Intro Animation">
+</h1>
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Typing SVG" width="500">
 </p>
-
 
 <!-- ===== Professional Badges ===== -->
 <p align="center">
