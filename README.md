@@ -51,31 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- 2 cards on the same row; equal heights for clean alignment -->
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Utpal-Barua&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Utpal-Barua&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utpal-Barua&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- Optional: Activity Graph (SVG) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utpal-Barua&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/utpalbarua/">
