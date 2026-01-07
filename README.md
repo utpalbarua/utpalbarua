@@ -50,7 +50,6 @@ To build robust, scalable, and production-grade AI systems while continuously le
   <img src="https://img.shields.io/badge/NLP-%F0%9F%93%9A-green?style=for-the-badge" />
 </p>
 
----
 
 ## 🛠 Tech Stack
 
@@ -63,9 +62,7 @@ To build robust, scalable, and production-grade AI systems while continuously le
 **MLOps & Tools**  
 `Docker` · `Kubernetes` · `MLflow` · `DVC` · `Airflow` · `GitHub Actions` · `AWS` · `GCP` · `Azure`
 
----
-
-## 🌍 Connect With Me
+--- 
 <p align="center">
   <a href="https://www.linkedin.com/in/utpalbarua/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white" />
@@ -81,4 +78,3 @@ To build robust, scalable, and production-grade AI systems while continuously le
   </a>
 </p>
 
----
