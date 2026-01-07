@@ -19,13 +19,27 @@
 ---
 
 ## 🚀 About Me
-- 🎯 **ML Engineer** passionate about AI, NLP, and MLOps  
-- 💡 Real-world **ML/DL + IoT + Blockchain** integrations  
-- 📊 Turning raw data into actionable insights  
-- 🌱 Exploring **LLMs, RAG, AI Agents**  
-- 🎯 2025 Goal: Contribute to open-source AI projects  
+I have hands-on experience in designing structured ML pipelines that integrate data versioning, experiment tracking, model management, and cloud-based training and deployment. I enjoy transforming research ideas into practical, deployable solutions using clean code architecture and industry-standard tools.
 
----
+My technical interests include machine learning, deep learning, MLOps, cloud-based ML systems, and decision-focused optimization. I continuously work on improving both my technical skills and communication abilities, aiming to grow as a professional AI/ML engineer capable of contributing to real-world, impactful projects.
+
+### 🔧 Technical Interests
+
+- Machine Learning & Deep Learning
+
+- MLOps & Model Lifecycle Management
+
+- Experiment Tracking & Reproducibility
+
+- Cloud ML (AWS SageMaker)
+
+- Data Versioning & Collaborative ML
+
+- End-to-End ML System Design
+
+### 🎯 Career Objective
+
+To build robust, scalable, and production-grade AI systems while continuously learning and applying modern machine learning and MLOps practices in real-world applications.
 
 <p align="center">
   <a href="https://github.com/Utpal-Barua">
