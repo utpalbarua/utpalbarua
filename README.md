@@ -1,6 +1,6 @@
 <!-- Main Title with Wave Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=600&lines=Hi+There+%F0%9F%91%8B+I+am+Utpal+Barua" alt="Intro Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=600&lines=Utpal+Barua" alt="Intro Animation">
 </h1>
 
 
